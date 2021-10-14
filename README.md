@@ -1,5 +1,5 @@
 # MarsRover
-An implementation of the MarsRover coding challenge
+An implementation of the MarsRover Simulation
 
 
 Mars Rovers
