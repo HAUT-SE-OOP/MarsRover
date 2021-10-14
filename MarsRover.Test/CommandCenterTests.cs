@@ -2,6 +2,7 @@
 using FluentAssertions;
 using Microsoft.Extensions.DependencyInjection;
 using Xunit;
+using Systme.X;
 
 namespace MarsRover.Test
 {
